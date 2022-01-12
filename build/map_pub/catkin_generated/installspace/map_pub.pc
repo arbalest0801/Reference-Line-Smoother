@@ -1,0 +1,8 @@
+prefix=/home/hongjia/mhj_ROS/install
+
+Name: map_pub
+Description: Description of map_pub
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

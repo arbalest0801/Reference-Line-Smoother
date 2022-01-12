@@ -1,0 +1,8 @@
+prefix=/home/hongjia/mhj_ROS/devel
+
+Name: reference_line_smoother
+Description: Description of reference_line_smoother
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

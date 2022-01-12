@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="map_pub" type="map_pub_node" name="map_pub" output="screen" />
+    <node pkg="rviz" type="rviz" name="rviz" args="-d $(find map_pub)/config/rviz_config.rviz" output="screen" />
+</launch>
