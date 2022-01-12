@@ -203,6 +203,7 @@ void ReferenceLineSmoother::CalculateAffineConstraint(std::vector<c_float>* A_da
                                 ++ind_A;
                             }
                             A_indptr->emplace_back(ind_A);
+                            ;
                         }
 
 void ReferenceLineSmoother::SetPrimalWarmStart(std::vector<c_float>* primal_warm_start){
