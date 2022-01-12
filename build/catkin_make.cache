@@ -1,2 +1,0 @@
-map_pub:marker_test:planning:reference_line_smoother:showpath
--DCATKIN_DEVEL_PREFIX=/home/hongjia/mhj_ROS/devel -DCMAKE_INSTALL_PREFIX=/home/hongjia/mhj_ROS/install -G Unix Makefiles

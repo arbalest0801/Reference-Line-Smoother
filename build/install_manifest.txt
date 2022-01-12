@@ -1,9 +1,0 @@
-/home/hongjia/mhj_ROS/install/_setup_util.py
-/home/hongjia/mhj_ROS/install/env.sh
-/home/hongjia/mhj_ROS/install/setup.bash
-/home/hongjia/mhj_ROS/install/local_setup.bash
-/home/hongjia/mhj_ROS/install/setup.sh
-/home/hongjia/mhj_ROS/install/local_setup.sh
-/home/hongjia/mhj_ROS/install/setup.zsh
-/home/hongjia/mhj_ROS/install/local_setup.zsh
-/home/hongjia/mhj_ROS/install/.rosinstall

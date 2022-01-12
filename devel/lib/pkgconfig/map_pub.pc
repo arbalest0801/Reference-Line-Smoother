@@ -1,8 +1,0 @@
-prefix=/home/hongjia/mhj_ROS/devel
-
-Name: map_pub
-Description: Description of map_pub
-Version: 0.0.0
-Cflags: -I/home/hongjia/mhj_ROS/src/map_pub/include
-Libs: -L${prefix}/lib 
-Requires: 
